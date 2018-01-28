@@ -1,0 +1,9 @@
+D:\GoogleDrive\C#\RandomSteam\RandomSteamGame\RandomSteamGame\bin\Release\RandomSteamGame.exe.config
+D:\GoogleDrive\C#\RandomSteam\RandomSteamGame\RandomSteamGame\bin\Release\RandomSteamGame.exe
+D:\GoogleDrive\C#\RandomSteam\RandomSteamGame\RandomSteamGame\bin\Release\RandomSteamGame.pdb
+D:\GoogleDrive\C#\RandomSteam\RandomSteamGame\RandomSteamGame\obj\Release\RandomSteamGame.Properties.Resources.resources
+D:\GoogleDrive\C#\RandomSteam\RandomSteamGame\RandomSteamGame\obj\Release\RandomSteamGame.csproj.GenerateResource.Cache
+D:\GoogleDrive\C#\RandomSteam\RandomSteamGame\RandomSteamGame\obj\Release\RandomSteamGame.exe
+D:\GoogleDrive\C#\RandomSteam\RandomSteamGame\RandomSteamGame\obj\Release\RandomSteamGame.pdb
+D:\GoogleDrive\C#\RandomSteam\RandomSteamGame\RandomSteamGame\obj\Release\RandomSteamGame.randomSteamGame.resources
+D:\GoogleDrive\C#\RandomSteam\RandomSteamGame\RandomSteamGame\obj\Release\RandomSteamGame.csprojResolveAssemblyReference.cache
